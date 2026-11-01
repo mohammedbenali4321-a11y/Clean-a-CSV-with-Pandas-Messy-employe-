@@ -70,7 +70,7 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 
 ## 🔗 Solution & Walkthrough
 A full walkthrough of this project is available on Towards Data Science:  
-🔗 **[I Cleaned a Messy CSV File Using Pandas](link)**
+🔗 **[I Cleaned a Messy CSV File Using Pandas]([link](https://roadmap.sh/projects/clean-csv))**
 
 ### 🌐 Connect & Profiles
 
