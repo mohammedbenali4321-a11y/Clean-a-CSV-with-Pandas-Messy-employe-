@@ -1,0 +1,69 @@
+====================================================================
+
+INFORMATIONS ET MÉTADONNÉES DU PROJET
+
+====================================================================
+
+
+
+NOM DU PROJET          : Clean a CSV with Pandas
+
+DOMAINE                : Data Science / Data Analyst / Machine Learning
+
+DATE DE CRÉATION       : Novembre 01/11/ 2026 12:40
+
+DATE DE PUBLICATION    : Novembre 01/11/ 2026  // 17:59
+
+VERSION                : 1.0.0
+
+
+
+--------------------------------------------------------------------
+
+INFORMATIONS ACADÉMIQUES
+
+--------------------------------------------------------------------
+
+FILIÈRE                : Génie Informatique / Data Engineering
+
+OPTION / SPÉCIALITÉ    : Data Science / Data Analyst & Intelligence Artificielle (DSIA)
+
+CADRE DU PROJET        : Travaux Pratiques / Projet
+
+
+
+--------------------------------------------------------------------
+
+DESCRIPTION DU PROJET
+
+--------------------------------------------------------------------
+
+In this project, you will clean a messy synthetic employee dataset using a structured, step-by-step workflow. The dataset includes encoding issues, wrong date formats, mixed types, and inconsistent categorical values.
+
+The focus is on building a repeatable cleaning process, not just fixing one specific file.
+
+--------------------------------------------------------------------
+
+TECHNOLOGIES ET OUTILS
+
+--------------------------------------------------------------------
+
+- Langage            : Python 3.x
+
+- Manipulation Data  : Pandas
+
+- Gestion de Version : Git / GitHub
+
+
+
+--------------------------------------------------------------------
+
+STRUCTURE DES DONNÉES
+
+--------------------------------------------------------------------
+
+Fichier Source       : Messy_Employee_dataset.csv
+
+Fichier finale 	     : cleaned_employee_data.csv
+
+====================================================================
