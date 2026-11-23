@@ -5,13 +5,13 @@
 
 ---
 
-## 🔗 Solution & Walkthrough
+##  Solution & Walkthrough
 To present the project solution within the platform’s roadmap
 🔗 **[Solution](https://roadmap.sh/projects/clean-csv/solutions?u=6acfe5d47bc4b9873155668f)**
 
 ---
 
-### 🌐 Connect & Profiles
+###  Connect & Profiles
 
 *  **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
 *  **LinkedIn:** [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
@@ -20,7 +20,7 @@ To present the project solution within the platform’s roadmap
 
 ---
 
-## 📌 Project Description
+##  Project Description
 In this project, you will clean a messy synthetic employee dataset using a structured, step-by-step workflow. The dataset includes encoding issues, wrong date formats, mixed types, corrupted columns (like negative phone numbers), missing data, and inconsistent categorical values.
 
 The primary focus is on building a **repeatable, 5-stage cleaning process** rather than just fixing one specific file.
@@ -44,7 +44,7 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 
 ---
 
-## 🔄 The 5-Stage Data Cleaning Workflow
+##  The 5-Stage Data Cleaning Workflow
 
 ```
 ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
@@ -66,7 +66,7 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 
 ---
 
-## 🧠 What You Will Learn
+##  What You Will Learn
 - A repeatable **5-stage framework** (`Load` ➔ `Inspect` ➔ `Clean` ➔ `Review` ➔ `Export`) applicable to any tabular dataset.
 - How to detect hidden data bugs like **silent type casting** and corrupted numbers (e.g., negative scientific notation in strings).
 - Strategies for deciding whether to **impute** (e.g., median for age) or **drop** missing values (e.g., critical financial metrics like salary).
@@ -78,9 +78,9 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 A full walkthrough of this project is available on roadmap:  
 🔗 **[I Cleaned a Messy CSV File Using Pandas](https://roadmap.sh/projects/clean-csv)**
 
-### 🌐 Connect & Profiles
+###  Connect & Profiles
 
-* 🐙 **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
-* 💼 **LinkedIn:** [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
-* 🏆 **Kaggle:** [mbaitri](https://www.kaggle.com/mbaitri)
-* 🏆 **Roadmap:** [benalimohamed](https://roadmap.sh/u/benalimohamed)
+*  **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
+*  **LinkedIn:** [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
+*  **Kaggle:** [mbaitri](https://www.kaggle.com/mbaitri)
+*  **Roadmap:** [benalimohamed](https://roadmap.sh/u/benalimohamed)
