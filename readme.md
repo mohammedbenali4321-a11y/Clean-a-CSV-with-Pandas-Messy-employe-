@@ -7,7 +7,7 @@
 
 ##  Solution & Walkthrough
 To present the project solution within the platform’s roadmap
-🔗 **[Solution](https://roadmap.sh/projects/clean-csv/solutions?u=6acfe5d47bc4b9873155668f)**
+ **[Solution](https://roadmap.sh/projects/clean-csv/solutions?u=6acfe5d47bc4b9873155668f)**
 
 ---
 
@@ -27,7 +27,7 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 
 ---
 
-## 📋 Project Requirements
+##  Project Requirements
 - **Load & Inspect:** Load the dataset and perform an initial visual and statistical audit before making any modifications.
 - **Data Load Handling:** Handle encoding and delimiter issues at load time.
 - **Explicit Dtypes:** Fix column data types explicitly using proper casting (`astype()`, `dtype`).
@@ -37,7 +37,7 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python** (Data processing and cleaning)
 - **Pandas** (Data manipulation and analysis)
 - **Jupyter Notebook** (Interactive environment)
@@ -74,9 +74,9 @@ The primary focus is on building a **repeatable, 5-stage cleaning process** rath
 
 ---
 
-## 🔗 Solution & Walkthrough
+##  Solution & Walkthrough
 A full walkthrough of this project is available on roadmap:  
-🔗 **[I Cleaned a Messy CSV File Using Pandas](https://roadmap.sh/projects/clean-csv)**
+ **[I Cleaned a Messy CSV File Using Pandas](https://roadmap.sh/projects/clean-csv)**
 
 ###  Connect & Profiles
 
