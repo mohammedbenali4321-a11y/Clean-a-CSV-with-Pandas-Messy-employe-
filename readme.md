@@ -13,10 +13,10 @@ To present the project solution within the platform’s roadmap
 
 ### 🌐 Connect & Profiles
 
-* 🐙 **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
-* 💼 **LinkedIn:** [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
-* 🏆 **Kaggle:** [mbaitri](https://www.kaggle.com/mbaitri)
-* 🏆 **Roadmap:** [benalimohamed](https://roadmap.sh/u/benalimohamed)
+*  **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
+*  **LinkedIn:** [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
+*  **Kaggle:** [mbaitri](https://www.kaggle.com/mbaitri)
+*  **Roadmap:** [benalimohamed](https://roadmap.sh/u/benalimohamed)
 
 ---
 
